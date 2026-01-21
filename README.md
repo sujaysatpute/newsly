@@ -2,6 +2,8 @@
 
 Newsly is a real-time news application built using Flutter with a Python backend, delivering Indian and international news through NewsAPI. The app provides categorized news, search functionality, and a smooth, responsive user experience.
 
+![image alt](https://github.com/sujaysatpute/newsly/blob/main/WhatsApp%20Image%202025-06-20%20at%2019.44.43_dfedfaf9.jpg?raw=true) ![image alt](https://github.com/sujaysatpute/newsly/blob/main/WhatsApp%20Image%202025-06-20%20at%2019.44.43_9be77788.jpg?raw=true) ![image alt](https://github.com/sujaysatpute/newsly/blob/main/WhatsApp%20Image%202025-06-20%20at%2019.44.44_635600e3.jpg?raw=true)
+
 
 🚀 Features
 
